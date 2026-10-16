@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+*.so
+.Python
+.venv/
+venv/
+data/
+logs/
+*.db
+*.csv
+checkpoint.json
+.streamlit/secrets.toml
+.vercel
+*.log
